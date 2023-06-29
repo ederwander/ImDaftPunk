@@ -87,7 +87,6 @@ d = 0.41004238851988095
 #you can change f0 to new frequency hertz
 f0=250
 amp=1.0
-Fs=22000
 Fs=44100
 w=2.0*pi*f0/Fs
 dB=10**(40/20)
